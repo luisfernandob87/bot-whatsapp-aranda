@@ -1,0 +1,80 @@
+{
+    "DEFAULT": {
+        "replyMessage": [
+            "No te entiendo, puedes escribir lo siguiente para activar el menú de opciones \n",
+            "Ejemplo: \n",
+            "Inicio \n"
+        ],
+        "media": null,
+        "trigger": null
+    },
+    "STEP_0": {
+        "replyMessage": [
+            "Conversación finalizada \n"
+        ],
+        "media": null,
+        "trigger": null
+    },
+    "STEP_1": {
+        "replyMessage": [],
+        "media": "",
+        "trigger": null,
+        "actions": {
+            "title": "Gracias por contactarte con SAR Latam. 🤗",
+            "message": "Aquí puedes marcar las siguientes opciones:",
+            "footer": "Atte. MDS",
+            "buttons": [
+                {
+                    "body": "Consultar Casos"
+                },
+                {
+                    "body": "Registrar Casos(Próximamente)"
+                }
+            ]
+        }
+    },
+    "STEP_2": {
+        "replyMessage": [],
+        "media": null,
+        "trigger": null,
+        "actions": {
+            "title": "",
+            "message": "Claro acá puedes seleccionar el área",
+            "footer": "Atte. MDS",
+            "buttons": [
+                {
+                    "body": "Soporte"
+                },
+                {
+                    "body": "Mesa de Ayuda"
+                }
+            ]
+        }
+    },
+    "STEP_4": {
+        "replyMessage": [
+            "Excelente, por favor ingresa el No. de Caso, anteponiendo el *\n",
+            "Ejemplo: *151515\n"
+        ],
+        "media": "",
+        "trigger": null
+    },
+    "STEP_5": {
+        "replyMessage": [
+            "Excelente, por favor ingresa el No. de Caso, anteponiendo el #\n",
+            "Ejemplo: #151515\n"
+        ],
+        "media": null,
+        "trigger": null
+    },
+    "STEP_8": {
+        "replyMessage": [],
+        "media": null,
+        "trigger": null
+    },
+    "STEP_9": {
+        "replyMessage": [],
+        "media": null,
+        "trigger": null
+    }
+}

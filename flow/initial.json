@@ -1,0 +1,50 @@
+[
+    {
+        "keywords": [
+            "hola",
+            "hola!",
+            "ola",
+            "ole",
+            "inicio",
+            "info",
+            "welcome",
+            "buen dia",
+            "buenos días",
+            "buen día",
+            "buenos dias",
+            "buena tarde",
+            "buenas tardes",
+            "buena noche",
+            "buenas noches",
+            "me dieron este número",
+            "me dieron este numero",
+            "inicio",
+            "tengo problemas"
+        ],
+        "key": "STEP_1"
+    },
+    {
+        "keywords": [
+            "consultar casos"
+        ],
+        "key": "STEP_2"
+    },
+    {
+        "keywords": [
+            "registrar casos"
+        ],
+        "key": "STEP_3"
+    },
+    {
+        "keywords": [
+            "soporte"
+        ],
+        "key": "STEP_4"
+    },
+    {
+        "keywords": [
+            "mesa de ayuda"
+        ],
+        "key": "STEP_5"
+    }
+]
